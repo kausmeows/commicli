@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'gicli'
+NAME = 'commicli'
 DESCRIPTION = 'A CLI to fetch similar GitHub commits and repositories. '
 URL = 'https://github.com/kaustubh-s1/gicli'
 EMAIL = 'shuklakaustubh84@gmail.com'
